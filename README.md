@@ -1,3 +1,3 @@
 # Updatr
 
-Basic A record DNS updatr for records hosted on Cloudflare
+Basic A record DNS updater for records hosted on Cloudflare
